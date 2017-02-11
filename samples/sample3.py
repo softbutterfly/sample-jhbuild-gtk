@@ -20,20 +20,20 @@ style_provider.load_from_data(css)
 class HelloWorldWindow(Gtk.Window):
 
     def __init__(self):
-        Gtk.Window.__init__(self, title="Hello World")
+        Gtk.Window.__init__(self, title="Linux at PUCP")
 
         self.set_name('hello_world_window')
         self.set_border_width(10)
 
 
-        self.button = Gtk.Button(label="Click Here")
+        self.button = Gtk.Button(label="Go to linux playa!!")
         self.button.set_name('hello_world_button')
         self.button.connect("clicked", self.on_button_clicked)
 
         self.add(self.button)
 
     def on_button_clicked(self, widget):
-        print("Hello World")
+        print("Hello Linux at PUCP!! :D")
 
 
 def main():
