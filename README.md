@@ -3,6 +3,9 @@
 [![Preview](./banner.png)][1]
 [![MIT License][2]][1] [![Python][3]][1] [![jhbuild][4]][1] [![Gtk+][5]][1]
 
+
+Taller de jhbuild y gtk realizado en el evento [Linux at PUCP](http://www.linuxatuni.com/2017/linux-at-pucp) como parte de las preparaciones para el evento [Linux at playa](http://www.linuxatuni.com/2017/linux-at-playa)
+
 ## Guia de instalacion
 
 1. `cd ~`
