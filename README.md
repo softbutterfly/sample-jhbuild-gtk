@@ -35,7 +35,6 @@ Taller de jhbuild y gtk realizado en el evento [Linux at PUCP](http://www.linuxa
 # Autores
 
 * [@zodiacfireworks](https://github.com/zodiacfireworks)
-* [@sheylabre](https://github.com/sheylabre)
 
 
 [1]: git@github.com:softbutterfly/sample-jhbuild-gtk.git
